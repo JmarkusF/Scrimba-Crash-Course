@@ -4,3 +4,10 @@ body {
 p {
     color:rgba(3, 117, 194, 0.582);
 }
+h1{
+    width: 150px;
+    padding: 0px 15px;
+    border: 5px solid black;
+    margin: 20px;
+    
+}
